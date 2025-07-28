@@ -1,0 +1,3 @@
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/dns-resolver.dir
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/ZERO_CHECK.dir

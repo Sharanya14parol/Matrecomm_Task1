@@ -1,0 +1,10 @@
+^C:\USERS\SHARANYA\DESKTOP\DNS-RESOLVER\BUILD\CMAKEFILES\96D3150A8CA1B3730BF9E97C0F8F2EF2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/SHARANYA/Desktop/dns-resolver -BC:/Users/SHARANYA/Desktop/dns-resolver/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/SHARANYA/Desktop/dns-resolver/build/dns-resolver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

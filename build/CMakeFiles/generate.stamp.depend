@@ -1,0 +1,59 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/SelectLibraryConfigurations.cmake
+C:/Users/SHARANYA/Desktop/dns-resolver/CMakeLists.txt
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/4.1.0-rc3/CMakeCCompiler.cmake
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/4.1.0-rc3/CMakeCXXCompiler.cmake
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/4.1.0-rc3/CMakeRCCompiler.cmake
+C:/Users/SHARANYA/Desktop/dns-resolver/build/CMakeFiles/4.1.0-rc3/CMakeSystem.cmake
+C:/vcpkg/installed/x64-windows/share/poco/FindPCRE2.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoConfig.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoFoundationConfig.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoFoundationConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoFoundationTargets.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoNetConfig.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoNetConfigVersion.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoNetTargets-debug.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoNetTargets-release.cmake
+C:/vcpkg/installed/x64-windows/share/poco/PocoNetTargets.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-utf8proc/unofficial-utf8proc-config-debug.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-utf8proc/unofficial-utf8proc-config-release.cmake
+C:/vcpkg/installed/x64-windows/share/unofficial-utf8proc/unofficial-utf8proc-config.cmake
+C:/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
+C:/vcpkg/scripts/buildsystems/vcpkg.cmake
